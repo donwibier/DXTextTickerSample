@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Title="News item 1" ImageUrl="~/Images/Transparent.gif" Text="Some text about this news item 1" Url="http://www.devexpress.com/"></item>
+  <item Title="News item 2" ImageUrl="~/Images/Transparent.gif" Text="Some text about this news item 2" Url="http://www.devexpress.com/"></item>
+  <item Title="News item 3" ImageUrl="~/Images/Transparent.gif" Text="Some text about this news item 3" Url="http://www.devexpress.com/"></item>
+</items>
