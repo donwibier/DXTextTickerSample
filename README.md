@@ -1,2 +1,2 @@
 # DXTextTickerSample
-A text ticker example by using the Image Gallery Control
+A text ticker example by using the DevExpress Image Slider Control
